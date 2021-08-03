@@ -18,10 +18,8 @@ python CreateAndSendFramesToServer.py
 
 it will open the camera and pass the each webcam frame to server and server will log the output in the given server location 
 
-sample output looks like below:
+sample output looks like below
 
-Frames colelcted in local machine 
-![frame5](https://user-images.githubusercontent.com/77629263/127752023-89123b8d-6268-4800-9905-54756bae82c4.jpg)
 
 below the output given the server and stored in the VM
 
