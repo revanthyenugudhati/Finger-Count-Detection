@@ -1,4 +1,4 @@
-# CloudComputingProject
+# Finger Count Detection
 Hand Recognition Project
 
 It will Recognize the number of fingers from the segmented hand region using local machine webcam
